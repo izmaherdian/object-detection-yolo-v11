@@ -1,0 +1,15 @@
+# Ultralytics outputs / caches
+runs/
+*.cache
+yolo11n.pt
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
